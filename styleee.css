@@ -1,0 +1,37 @@
+#imivi{
+	font-size: 40px;
+	font-weight: 20px;
+	font-family: monospace;
+	display: inline-block;
+}
+body, html {
+  height: 100%;
+}
+
+.bg {
+  /* The image used */
+  background-image: url("./create.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#explore{
+	background-color: skyblue;
+	display: inline-block;
+}
+#signup{
+	margin-left: 900px;
+	background-color: blue;
+}
+#food{
+	margin-left: 200px;
+	text-color: red;
+}
+h1{
+	color: white;
+}
